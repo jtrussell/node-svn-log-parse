@@ -1,0 +1,21 @@
+---
+- revision: 'r491'
+  committer: 'bruce_lee'
+  time: '2013-10-11 15:03:08 +0000 (Fri, 11 Oct 2013)'
+  line_count: '2 lines'
+  message: |
+            test: Validate black belt is not really shade of gray
+            
+            Appears to be legit
+            
+- revision: 'r490'
+  committer: 'chuck_norris'
+  time: '2013-08-29 15:29:07 +0000 (Thu, 29 Aug 2013)'
+  line_count: '1 line'
+  message: 'feature: Add roundhouse kick'
+  
+- revision: 'r489'
+  committer: 'bruce_lee'
+  time: '2013-08-22 19:35:20 +0000 (Thu, 22 Aug 2013)'
+  line_count: '2 lines'
+  message: 'fix: Typo'

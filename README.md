@@ -1,4 +1,4 @@
 node-svn-log-parse
 ==================
 
-Parse `svn log` output
+Simple `svn log` output parsing.
