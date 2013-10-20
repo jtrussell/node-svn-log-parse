@@ -18,4 +18,11 @@ describe('SVN Log Parser', function() {
     expect(logs.length).to.equal(0);
   });
   
+  it('should parse log messages into a collection', function() {
+    var grunt = require('grunt')
+      , expected = grunt.file.readYAML('test/expected/multiple.yml')
+      , actual = parser.parse(grunt.file.read('test/fixtures/multiple'));
+      expect(actual).to.deep.equal(expected);
+  });
+  
 });

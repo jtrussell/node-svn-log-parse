@@ -1,6 +1,6 @@
 {
   "name": "svn-log-parse",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Simple parsing for svn logs",
   "main": "lib/index.js",
   "directories": {
