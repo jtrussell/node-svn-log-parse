@@ -32,6 +32,7 @@ Do something with svnLogObjects:
   // ...
 }]
 */
+```
 
 ## License
 
