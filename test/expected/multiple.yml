@@ -2,7 +2,7 @@
 - revision: 'r491'
   committer: 'bruce_lee'
   time: '2013-10-11 15:03:08 +0000 (Fri, 11 Oct 2013)'
-  line_count: '2 lines'
+  line_count: '4 lines'
   message: "test: Validate black belt is not really shade of gray\n\nAppears to be legit"
   
 - revision: 'r490'
@@ -14,5 +14,5 @@
 - revision: 'r489'
   committer: 'bruce_lee'
   time: '2013-08-22 19:35:20 +0000 (Thu, 22 Aug 2013)'
-  line_count: '2 lines'
+  line_count: '1 line'
   message: 'fix: Typo'
