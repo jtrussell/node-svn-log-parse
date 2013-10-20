@@ -34,6 +34,10 @@ Do something with svnLogObjects:
 */
 ```
 
+## Testing
+
+Tests are written with the lovely mocha and chai duo. Run them with `npm test`
+
 ## License
 
 MIT
