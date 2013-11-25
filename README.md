@@ -1,14 +1,13 @@
 node-svn-log-parse
 ==================
 
-Simple `svn log` output parsing.
+Simple `svn log` output string parsing.
 
 ## Installation
 
-We're not yet in the `npm` registry so install directly from github:
 
 ```
-npm install --save git+https://github.com/jtrussell/node-svn-log-parse.git
+npm install svn-log-parse
 ```
 
 ## Usage
